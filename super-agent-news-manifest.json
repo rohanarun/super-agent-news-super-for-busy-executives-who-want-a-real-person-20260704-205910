@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com/)",
+    "[blog.google](https://blog.google/)",
+    "[scmedia.com](https://www.scmagazine.com/)",
+    "[darkreading.com](https://www.darkreading.com/)",
+    "[techcrunch.com](https://techcrunch.com/)",
+    "[mit.edu](https://news.mit.edu/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px/2.4lines; bento_density=grid-auto-flow:dense verified; labels=swept; buttons=black/white contrast pass",
+  "generated_at": "2026-07-04T20:59:18.064030+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion\u2011focused niche landing page for busy executives. Super operates real apps, executes workflows end\u2011to\u2011end, and reuses a computer\u2011use cache so repeated executive work gets faster and cheaper over time. Positioned against ChatGPT, Gemini, Siri, Grok, Folk, and Orchids with evidence from current reporting on agentic AI, computer\u2011use agents, and executive productivity."
+}
